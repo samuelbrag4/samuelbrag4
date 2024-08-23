@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Samuel. Sejam bem vindos! 
-**sou um estudante de programação. Com 16 anos, estudo no [SENAI](https://www.portaldaindustria.com.br/senai/) e estou ansiso por oportunidades de aprendizado e experiências no mundo da tecnologia.**
+**Sou um estudante de desenvolvimento de sistemas. Com 16 anos, estudo no [SENAI](https://www.portaldaindustria.com.br/senai/) e estou ansiso por oportunidades de aprendizado e experiências no mundo da tecnologia.**
 **procuro cada dia aprender mais e aprimorar minhas habilidades de programação.**
 
 ## Um pouco sobre mim 
