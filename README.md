@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou o Samuel. Sejam bem-vindos! 
+# 👋 Olá! Eu sou o Samuel. Sejam bem-vindos!
 
 **Sou um estudante de desenvolvimento de sistemas, com 16 anos, estudando no [SENAI](https://www.portaldaindustria.com.br/senai/). Estou sempre em busca de novas oportunidades para expandir meu conhecimento e me desenvolver no mundo da programação.**
 
 ---
 
-## Um pouco sobre mim 
+## Um pouco sobre mim
 * 🎮 **Sou de Valinhos-SP, Brasil;**
 * 💻 **Tenho uma afinidade especial com HTML e CSS, e sou apaixonado por trabalhar no Front-End. Gosto de criar interfaces amigáveis e funcionais, sempre focando em proporcionar boas experiências para os usuários.**
 * 🛠 **Já trabalhei em projetos como o desenvolvimento de um carrinho de controle remoto em grupo e, atualmente, estou desenvolvendo um portal de matérias para ajudar pessoas a estudar para os vestibulares.**
@@ -26,6 +26,9 @@
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Samuel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Samuel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Samuel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
@@ -36,6 +39,25 @@
   <a href = "mailto:samuelbraga.tds2.senai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuelbrag4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+---
+
+<h2 align="center">📊 Estátisticas GitHub 📉</h2>
+
+<h3 align="center">Estatísticas do perfil</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbrag4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Samuel's GitHub Stats">
+</p>
+
+<h3 align="center">Streak de Contribuições</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbrag4&theme=vue-dark&hide_border=true" alt="Samuel's GitHub Streak">
+</p>
+
+<h3 align="center">Linguagens Mais Utilizadas</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrag4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Samuel's Most Used Languages">
+</p>
 
 ---
 
