@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Samuel. Sejam bem-vindos!
 
-**Sou um estudante de desenvolvimento de sistemas, com 16 anos, estudando no [SENAI](https://www.portaldaindustria.com.br/senai/). Estou sempre em busca de novas oportunidades para expandir meu conhecimento e me desenvolver no mundo da programação, com foco em proporcionar boas experiências de usuário por meio de interfaces atraentes e funcionais.**
+**Sou um estudante de desenvolvimento de sistemas, com 16 anos, estudando no [SENAI](https://www.portaldaindustria.com.br/senai/). Estou sempre em busca de novas oportunidades para expandir meu conhecimento e me desenvolver no mundo da programação, com foco em proporcionar boas experiências de usuário por meio de interfaces atraentes e funcionais. Além disso, tenho conhecimento em metodologias ágeis, como SCRUM, o que me ajuda a trabalhar de maneira organizada e eficiente.**
 
 ---
 
@@ -30,7 +30,24 @@
   <img align="center" alt="Samuel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Samuel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Samuel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Samuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+---
+
+## 💼 Habilidades
+Aqui estão algumas das minhas principais habilidades:
+
+- 🤝 **Trabalho em equipe**: Adoro colaborar com outras pessoas e acredito que juntos podemos criar projetos mais sólidos e criativos.
+- 📅 **Organização**: Sei a importância de gerenciar bem o tempo e organizar as tarefas, especialmente em projetos grandes ou colaborativos.
+- 🔄 **Adaptação**: Sou flexível e consigo me ajustar rapidamente a novos desafios e ambientes.
+- 💡 **Criatividade**: Sempre penso fora da caixa para encontrar soluções inovadoras para os problemas.
+- 🧠 **Resolução de problemas**: Sou focado em identificar e resolver desafios técnicos e funcionais.
+- 💬 **Empatia**: Entendo as necessidades dos usuários e busco sempre criar soluções que sejam acessíveis e agradáveis para eles.
+- ⏳ **Produtividade**: Trabalho de forma eficiente, entregando soluções de qualidade dentro dos prazos.
+- 👨‍💻 **Linguagens de Programação**: JavaScript, HTML, CSS, Python, Node.js, Java, SQL.
+- 📈 **Metodologias ágeis (SCRUM)**: Experiência em organizar e participar de sprints, mantendo um fluxo de trabalho produtivo e eficiente.
+- 📚 **Aprendizado contínuo**: Sempre estou buscando aprender novas ferramentas, linguagens e técnicas para me manter atualizado.
 
 ---
 
