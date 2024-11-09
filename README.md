@@ -31,6 +31,8 @@
   <img align="center" alt="Samuel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Samuel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Samuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Samuel-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Samuel-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ---
@@ -63,17 +65,17 @@ Aqui estão algumas das minhas principais habilidades:
 
 <h3 align="center">Estatísticas do perfil</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbrag4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Samuel's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbrag4&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Samuel's GitHub Stats">
 </p>
 
 <h3 align="center">Streak de Contribuições</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbrag4&theme=vue-dark&hide_border=true" alt="Samuel's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbrag4&theme=dark&hide_border=true" alt="Samuel's GitHub Streak">
 </p>
 
 <h3 align="center">Linguagens Mais Utilizadas</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrag4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Samuel's Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrag4&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Samuel's Most Used Languages">
 </p>
 
 ---
