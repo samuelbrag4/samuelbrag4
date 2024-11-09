@@ -7,7 +7,6 @@
 ## Um pouco sobre mim
 * 🎮 **Sou de Valinhos-SP, Brasil;**
 * 💻 **Tenho uma afinidade especial com HTML e CSS, e sou apaixonado por trabalhar no Front-End. Gosto de criar interfaces amigáveis e funcionais, sempre focando em proporcionar boas experiências para os usuários, unindo minhas habilidades em programação e no design de UX/UI.**
-* 🛠 **Já trabalhei em projetos como o desenvolvimento de um carrinho de controle remoto em grupo e, atualmente, estou desenvolvendo um portal de matérias para ajudar pessoas a estudar para os vestibulares.**
 * 🎯 **Meu maior desafio no início foi entender a lógica de programação, mas com muita dedicação e estudo, consegui superar isso e me sinto cada vez mais confiante em avançar no mundo da tecnologia.**
 * 🤝 **Tenho interesse tanto em Front-End quanto em Back-End e estou sempre aberto a colaborações em projetos que me desafiem a crescer como desenvolvedor.**
 
@@ -21,55 +20,34 @@
 ---
 
 ## ⚙️ Linguagens e ferramentas
+
+### 🌐 Front-End
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Samuel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Samuel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Samuel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+
+### 🖥️ Back-End
+<div style="display: inline_block"><br>
+  <img align="center" alt="Samuel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Samuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Samuel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+### 🛠️ Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Samuel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Samuel-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Samuel-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
-## ⚙️ Sobre elas
-
-# Linguagens de Programação
-
-**JavaScript**: Linguagem essencial para o desenvolvimento web, tanto para Front-End quanto para Back-End (Node.js).
-
-**HTML5**: Linguagem de marcação para estruturar o conteúdo web.
-
-**CSS3**: Utilizada para estilizar e dar vida às interfaces web.
-
-**Python**: Linguagem versátil, usada tanto para desenvolvimento web quanto para automação e análise de dados.
-
-**Java**: Focada em desenvolvimento robusto e multiplataforma, como aplicativos para Android e sistemas web.
-
-**SQL**: Usada para gerenciar e manipular bancos de dados relacionais.
-
-# Ferramentas e Tecnologias
-
-**Node.js**: Plataforma para executar JavaScript no lado do servidor, permitindo criar APIs e serviços backend.
-
-**MySQL**: Sistema de gerenciamento de banco de dados relacional, ideal para armazenar e organizar grandes quantidades de dados.
-
-**Git**: Sistema de controle de versão, essencial para colaborar e versionar projetos de forma eficiente.
-
-**Figma**: Ferramenta para design de interfaces, ajudando na prototipação de layouts e UX/UI.
-
-**Postman**: Ferramenta para testar APIs, facilitando a criação e automação de requisições HTTP.
-
-**Visual Studio Code (VSCode)**: Editor de código altamente personalizável, amplamente utilizado para o desenvolvimento de projetos.
 
 ---
 
 ## 💼 Habilidades
 Aqui estão algumas das minhas principais habilidades:
-
 - 🤝 **Trabalho em equipe**: Adoro colaborar com outras pessoas e acredito que juntos podemos criar projetos mais sólidos e criativos.
 - 📅 **Organização**: Sei a importância de gerenciar bem o tempo e organizar as tarefas, especialmente em projetos grandes ou colaborativos.
 - 🔄 **Adaptação**: Sou flexível e consigo me ajustar rapidamente a novos desafios e ambientes.
@@ -79,30 +57,26 @@ Aqui estão algumas das minhas principais habilidades:
 - ⏳ **Produtividade**: Trabalho de forma eficiente, entregando soluções de qualidade dentro dos prazos.
 - 👨‍💻 **Linguagens de Programação**: JavaScript, HTML, CSS, Python, Node.js, Java, SQL.
 - 📈 **Metodologias ágeis (SCRUM)**: Experiência em organizar e participar de sprints, mantendo um fluxo de trabalho produtivo e eficiente.
-- 📚 **Aprendizado contínuo**: Sempre estou buscando aprender novas ferramentas, linguagens e técnicas para me manter atualizado.
 
 ---
 
 ## 🌐 Minhas redes
 <div> 
-  <a href = "mailto:samuelbraga.tds2.senai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:samuelbraga.tds2.senai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuelbrag4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 ---
 
 <h2 align="center">📊 Estátisticas GitHub 📉</h2>
-
 <h3 align="center">Estatísticas do perfil</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelbrag4&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Samuel's GitHub Stats">
 </p>
-
 <h3 align="center">Streak de Contribuições</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbrag4&theme=dark&hide_border=true" alt="Samuel's GitHub Streak">
 </p>
-
 <h3 align="center">Linguagens Mais Utilizadas</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrag4&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Samuel's Most Used Languages">
