@@ -35,6 +35,36 @@
   <img align="center" alt="Samuel-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
+## ⚙️ Sobre elas
+
+# Linguagens de Programação
+
+**JavaScript**: Linguagem essencial para o desenvolvimento web, tanto para Front-End quanto para Back-End (Node.js).
+
+**HTML5**: Linguagem de marcação para estruturar o conteúdo web.
+
+**CSS3**: Utilizada para estilizar e dar vida às interfaces web.
+
+**Python**: Linguagem versátil, usada tanto para desenvolvimento web quanto para automação e análise de dados.
+
+**Java**: Focada em desenvolvimento robusto e multiplataforma, como aplicativos para Android e sistemas web.
+
+**SQL**: Usada para gerenciar e manipular bancos de dados relacionais.
+
+# Ferramentas e Tecnologias
+
+**Node.js**: Plataforma para executar JavaScript no lado do servidor, permitindo criar APIs e serviços backend.
+
+**MySQL**: Sistema de gerenciamento de banco de dados relacional, ideal para armazenar e organizar grandes quantidades de dados.
+
+**Git**: Sistema de controle de versão, essencial para colaborar e versionar projetos de forma eficiente.
+
+**Figma**: Ferramenta para design de interfaces, ajudando na prototipação de layouts e UX/UI.
+
+**Postman**: Ferramenta para testar APIs, facilitando a criação e automação de requisições HTTP.
+
+**Visual Studio Code (VSCode)**: Editor de código altamente personalizável, amplamente utilizado para o desenvolvimento de projetos.
+
 ---
 
 ## 💼 Habilidades
