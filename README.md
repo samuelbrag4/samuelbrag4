@@ -70,15 +70,15 @@ Aqui estão algumas das minhas principais habilidades:
 ---
 
 <h2 align="center">📊 Estátisticas GitHub 📉</h2>
-<h3 align="center">Estatísticas do perfil</h3>
+<h3 align="center">Estatísticas do perfil 📈</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelbrag4&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Samuel's GitHub Stats">
 </p>
-<h3 align="center">Streak de Contribuições</h3>
+<h3 align="center">Streak de Contribuições 🤝</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbrag4&theme=dark&hide_border=true" alt="Samuel's GitHub Streak">
 </p>
-<h3 align="center">Linguagens Mais Utilizadas</h3>
+<h3 align="center">Linguagens Mais Utilizadas 🗣</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrag4&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Samuel's Most Used Languages">
 </p>
