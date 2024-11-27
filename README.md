@@ -1,5 +1,11 @@
 # 👋 Olá! Eu sou o Samuel. Sejam bem-vindos!
 
+<img 
+         src="https://komarev.com/ghpvc/?username=samuelbrag4&label=Profile%20views&color:#39ff14&style=flat-square&color=green" 
+         title="Profile views" 
+         alt="Profile views"
+    >
+
 **Sou um estudante de desenvolvimento de sistemas, com 16 anos, estudando no [SENAI](https://www.portaldaindustria.com.br/senai/). Estou sempre em busca de novas oportunidades para expandir meu conhecimento e me desenvolver no mundo da programação, com foco em proporcionar boas experiências de usuário por meio de interfaces atraentes e funcionais. Além disso, tenho conhecimento em metodologias ágeis, como SCRUM, o que me ajuda a trabalhar de maneira organizada e eficiente.**
 
 ---
