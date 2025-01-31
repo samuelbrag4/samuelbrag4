@@ -1,3 +1,92 @@
+# 👋 Hello! I'm Samuel. Welcome!
+
+![Profile Views](https://komarev.com/ghpvc/?username=samuelbrag4&label=Profile%20views&color=green&style=flat-square)
+
+**I am a System Development student, 16 years old, studying at [SENAI](https://www.portaldaindustria.com.br/senai/). I am always looking for new opportunities to expand my knowledge and grow in the programming world, focusing on providing great user experiences through attractive and functional interfaces. Additionally, I have knowledge of agile methodologies like SCRUM, which helps me work in an organized and efficient manner.**
+
+---
+
+## 📌 A little about me
+* 🎮 **I'm from Valinhos-SP, Brazil;**
+* 💻 **I have a special affinity for HTML and CSS, and I am passionate about working on Front-End development. I love creating user-friendly and functional interfaces, always focusing on delivering great user experiences by combining my programming skills with UX/UI design.**
+* 🎯 **My biggest challenge at the beginning was understanding programming logic, but with a lot of dedication and study, I overcame it and now feel increasingly confident to advance in the tech world.**
+* 🤝 **I am interested in both Front-End and Back-End development and am always open to collaborations on projects that challenge me to grow as a developer.**
+
+---
+
+## 🎯 My programming interests
+* 🎓 **I aim to graduate in System Development and Data Analysis.**
+* 🧑‍💻 **I intend to work on projects related to game development, systems, and interactive portals, as well as contribute to the developer community.**
+* 🚀 **I am interested in participating in projects and collaborating with other developers to create impactful and innovative solutions in the tech world.**
+
+---
+
+## ⚙️ Languages and Tools
+
+### 🌐 Front-End
+```html
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" />
+```
+
+### 🖥️ Back-End
+```html
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+```
+
+### 🛠️ Tools
+```html
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" />
+```
+
+---
+
+## 💼 Skills
+- 🤝 **Teamwork**
+- 📅 **Organization**
+- 🔄 **Adaptability**
+- 💡 **Creativity**
+- 🧐 **Problem-solving**
+- 💬 **Empathy**
+- ⏳ **Productivity**
+- 👨‍💻 **Programming Languages:** JavaScript, HTML, CSS, Python, Node.js, Java, SQL.
+- 📊 **Agile Methodologies (SCRUM)**
+
+---
+
+## 🌐 My Networks
+```html
+<a href="mailto:samuelbraga.tds2.senai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuelbrag4"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+```
+
+---
+
+## 📊 GitHub Statistics 📉
+```md
+### Profile Stats 📈
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelbrag4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)
+
+### Most Used Languages 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrag4&layout=compact&langs_count=8&theme=great-gatsby)
+
+### Contribution Streak 🔥
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=samuelbrag4&theme=great-gatsby)
+```
+
+---
+
+<details>
+  <summary><b>🌟 Versão em Português</b> 🇧🇷</summary>
+
 # 👋 Olá! Eu sou o Samuel. Sejam bem-vindos!
 
 <img 
@@ -28,7 +117,7 @@
 ## ⚙️ Linguagens e ferramentas
 
 ### 🌐 Front-End
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>    
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -92,3 +181,6 @@ Aqui estão algumas das minhas principais habilidades:
 ---
 
 ## **💬 Vamos criar algo incrível juntos!** 🚀
+
+
+</details>
